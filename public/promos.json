@@ -1,57 +1,29 @@
 [{
-    "id" : 1,
-    "img" : "img/a-dictionary-of-basic-japanese-grammar.jpg",
-    "imgalt" : "Basic Japanese Grammar",
-    "last_page" : 0,
-    "book_title" : "A Dictionary of Basic Japanese Grammar",
-    "rate_overall" : "?/5"
-}, {
-    "id" : 2,
-    "img" : "img/adobe-masterclass-advanced-composition-in-adobe-photoshop-cc.jpg",
-    "imgalt" : "Adobe Masterclass Book",
-    "last_page" : 0,
-    "book_title" : "Adobe Master Class: Advanced Compositing in Adobe Photoshop CC: Bringing the Impossible to Reality",
-    "rate_overall" : "?/5"
-}, {
     "id" : 3,
-    "img" : "img/final-fantasy-vii-remake-ultimania.JPG",
-    "imgalt" : "Final Fantasy VII Remake Ultimania",
-    "last_page" : 0,
-    "book_title" : "Final Fantasy VII Remake Ultimania",
-    "rate_overall" : "?/5"
-}, {
+    "img" : "img/drums.jpg",
+    "imgalt":"drums",
+    "desc":"A set of super awesome drums, combined with a guitar, they can product more than amazing music!!",
+    "price" : 17000.0,
+    "productname" : "Drums"
+},{
     "id" : 4,
-    "img" : "img/instagram-power.jpg",
-    "imgalt" : "Instagram Power",
-    "last_page" : 0,
-    "book_title" : "Instagram Power, Second Edition: Build Your Brand and Reach More Customers with Visual Influence",
-    "rate_overall" : "?/5"
-}, {
+    "img" : "img/flute.jpeg",
+    "imgalt":"flute",
+    "desc":"A super nice flute combined with some super nice musical notes!!",
+    "price" : 210.0,
+    "productname" : "Flute"
+},{
     "id" : 5,
-    "img" : "img/japanese-fashio.jpg",
-    "imgalt" : "Japanese Fashion",
-    "last_page" : 0,
-    "book_title" : "Japanese Fashions",
-    "rate_overall" : "?/5"
-}, {
+    "img" : "img/blackguitar.jpeg",
+    "imgalt":"Black guitar",
+    "desc":"An awesome guitar that will product amazing sound!!",
+    "price" : 200.0,
+    "productname" : "Black Guitar"
+},{
     "id" : 6,
-    "img" : "img/samurai-wisdom.jpg",
-    "imgalt" : "Samurai Wisdom",
-    "last_page" : 0,
-    "book_title" : "Samurai Wisdom: Lessons from Japan's Warrior Culture",
-    "rate_overall" : "?/5"
-}, {
-    "id" : 7,
-    "img" : "img/total-aikido-the-master-course.jpg",
-    "imgalt" : "Total Aikido",
-    "last_page" : 0,
-    "book_title" : "Total Aikido: The Master Course",
-    "rate_overall" : "?/5"
-}, {
-    "id" : 8,
-    "img" : "img/fullstack_go.png",
-    "imgalt" : "Fullstack Go",
-    "last_page" : 0,
-    "book_title" : "Hands-On Full Stack Development with Go: Build Full Stack Web Applications with Go, React, Gin, and GopherJS",
-    "rate_overall" : "?/5"
+    "img" : "img/saxophone.jpeg",
+    "imgalt":"Saxophone",
+    "desc":"An great saxophone for a great musician!!",
+    "price" : 1000.0,
+    "productname" : "Saxophone"
 }]
